@@ -38,10 +38,3 @@ jupyter notebook next_word_predictor.ipynb
 
 The dataset used for training the Next Word Predictor is "metamorphosis_clean.txt", which contains the text of the book "Metamorphosis" by Franz Kafka. The text has been preprocessed to remove punctuation and normalize the text for training.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to add any additional instructions or information as needed!
