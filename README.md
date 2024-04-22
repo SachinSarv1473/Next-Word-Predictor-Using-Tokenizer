@@ -24,15 +24,16 @@ pip install numpy tensorflow
 
 ## Usage
 
-1. Open the Jupyter Notebook file `next_word_predictor.ipynb`:
+1. Open the Jupyter Notebook file `nextWordPredictionNM.ipynb`:
 
 ```bash
-jupyter notebook next_word_predictor.ipynb
+jupyter notebook nextWordPredictionNM.ipynb
 ```
 
 2. Follow the instructions in the notebook to execute the code cells and train the model.
 
-3. Once the model is trained, you can input a sequence of words to get a prediction for the next word.
+3. Once the model is trained, you can input (hardcode) a sequence of words to get a prediction for the next word.
+
 
 ## Dataset
 
