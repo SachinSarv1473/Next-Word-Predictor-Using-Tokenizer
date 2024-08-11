@@ -1,4 +1,4 @@
-# Next_Word_Predictor_NM
+# Next_Word_Predictor
 
 This project is a Next Word Predictor implemented in a Jupyter Notebook (IPython Notebook). The predictor utilizes a dataset from "metamorphosis_clean.txt" to train a language model and predict the next word based on the input text.
 
@@ -7,13 +7,13 @@ This project is a Next Word Predictor implemented in a Jupyter Notebook (IPython
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/SachinSarv1473/Next_Word_Predictor_NM.git
+git clone https://github.com/SachinSarv1473/Next_Word_Predictor.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Next_Word_Predictor_NM
+cd Next_Word_Predictor
 ```
 
 3. Install the required Python packages:
@@ -24,10 +24,10 @@ pip install numpy tensorflow
 
 ## Usage
 
-1. Open the Jupyter Notebook file `nextWordPredictionNM.ipynb`:
+1. Open the Jupyter Notebook file `nextWordPrediction.ipynb`:
 
 ```bash
-jupyter notebook nextWordPredictionNM.ipynb
+jupyter notebook nextWordPrediction.ipynb
 ```
 
 2. Follow the instructions in the notebook to execute the code cells and train the model.
